@@ -1,0 +1,20 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "sadjsanvjfs",
+  "main": "funcionarios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "askdjasldasdjsd",
+    "asdaskdas",
+    "sadsad"
+  ],
+  "author": "Kauan Ferreira Santos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

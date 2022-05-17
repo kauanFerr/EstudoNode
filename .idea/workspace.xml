@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85af4ee7-d02b-418d-b3d1-4b2ef3538dfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="292edNz3UVurWuXO1mUbPUTK4BP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.34" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85af4ee7-d02b-418d-b3d1-4b2ef3538dfb" name="Default Changelist" comment="" />
+      <created>1652315693895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652315693895</updated>
+      <workItem from="1652315695566" duration="1618000" />
+      <workItem from="1652317509520" duration="1779000" />
+      <workItem from="1652319337565" duration="1777000" />
+      <workItem from="1652321167875" duration="571000" />
+      <workItem from="1652398385015" duration="2608000" />
+      <workItem from="1652401355428" duration="1776000" />
+      <workItem from="1652403190285" duration="1770000" />
+      <workItem from="1652405005523" duration="2359000" />
+      <workItem from="1652407415574" duration="1237000" />
+      <workItem from="1652628964764" duration="1291000" />
+      <workItem from="1652630781904" duration="1517000" />
+      <workItem from="1652633717267" duration="2729000" />
+      <workItem from="1652637065819" duration="1139000" />
+      <workItem from="1652638934383" duration="3709000" />
+      <workItem from="1652642691368" duration="1777000" />
+      <workItem from="1652644506588" duration="1780000" />
+      <workItem from="1652646328647" duration="827000" />
+      <workItem from="1652741287541" duration="1773000" />
+      <workItem from="1652743115679" duration="596000" />
+      <workItem from="1652745505925" duration="937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="1204" key="FileChooserDialogImpl" timestamp="1652319180600">
+      <screen x="259" y="1080" width="1366" height="738" />
+    </state>
+    <state x="722" y="1204" key="FileChooserDialogImpl/259.1080.1366.738/0.0.1920.1050@259.1080.1366.738" timestamp="1652319180600" />
+    <state x="605" y="1139" key="search.everywhere.popup" timestamp="1652319200291">
+      <screen x="259" y="1080" width="1366" height="738" />
+    </state>
+    <state x="605" y="1139" key="search.everywhere.popup/259.1080.1366.738/0.0.1920.1050@259.1080.1366.738" timestamp="1652319200291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node/projeto/src/servidor.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
